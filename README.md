@@ -1,3 +1,3 @@
 # AI_assignment2
 
-Genetic Algorithm 
+An implementation Genetic Algorithm 
